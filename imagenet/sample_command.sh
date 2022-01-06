@@ -1,0 +1,1 @@
+python main-posit.py -a resnet50 --pretrained --evaluate --gpu 0  ~/github/imagenet/

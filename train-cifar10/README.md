@@ -1,3 +1,14 @@
+# Train CIFAR10 with Qtorch+ and Posit 
+### 
+* Default we only train for 20 epochs.
+* Modify the file main.py or main-posit.py to change the model definition
+* Run `main-posit.py` to train with Posit
+* Currently support training all variants of VGG and Resnet in Posit formats
+
+
+The below is the original readme file (with more training time) from the original repository:
+[https://github.com/kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
+
 # Train CIFAR10 with PyTorch
 
 I'm playing with [PyTorch](http://pytorch.org/) on the CIFAR10 dataset.
